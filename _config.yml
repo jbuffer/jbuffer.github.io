@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 title: Buffer's homepage
-description: Some experimental text which I will turn into a proper homepage soonish
-date: 2022-03-29
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
