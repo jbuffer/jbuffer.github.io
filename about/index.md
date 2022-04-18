@@ -8,5 +8,5 @@ So, a bit more about myself. I work as a Data Scientist, and I am currently stud
 
 I also have a dog. A very cute dog. She's small, she can fit my foot in her mouth, and she likes to barks at gnomes.
 
-![Dog](https://github.com/jbuffer/jbuffer.github.io/blob/main/images/DSC01085.JPG)
+![Dog](https://github.com/jbuffer/jbuffer.github.io/blob/main/docs/assets/images/DSC01085.JPG)
 
