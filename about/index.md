@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 title: Jbuffer, Data fiend
 ---
 # Hi again 👋
