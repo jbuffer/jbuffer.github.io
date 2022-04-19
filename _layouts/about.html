@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<!-- link to fontawesome -->
+			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+			<style>  
+				.fa {  
+				  padding: 20px;  
+				text-align: center;  
+				  margin: 5px 2px;  
+				  font-size: 30px;  
+				  width: 50px;  
+				}  
+				.fa-github {  
+				  background: white;  
+				  color: #2ca25f;  
+				}  
+				.fa-twitter {  
+				  background: white;  
+				  color: #3182bd;   
+				}  
+			</style>  
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+	        		<li><a href="/">Home</a></li>
+		        	<li><a href="/about">About</a></li>
+	        		<li><a href="/blog">Blog</a></li>
+	    		</ul>
+			</nav>
+			<div class="container">
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+				<a href="https://github.com/jbuffer" class="fa fa-github"> </a>  
+	        		<a href="https://twitter.com/JenniferBufton" class="fa fa-twitter"> </a>  
+			</ul>
+			</footer>
+		</body>
+	</html>
