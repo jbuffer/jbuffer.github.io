@@ -18,7 +18,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: ##fffcfc;
+    color: #ECF0F1;
 }
 a:hover {
     text-decoration: underline;
@@ -30,7 +30,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #fffcfc;
+    color: #ECF0F1;
 }
 footer {
     border-top: 1px solid #d5d5d5;
