@@ -10,7 +10,7 @@ html {
 }
 .bg { 
   /* The image used */
-  background-image: url('/docs/assets/images/DSC01085.JPG');
+  background-image: url('https://github.com/jbuffer/jbuffer.github.io/blob/main/docs/assets/images/DSC01085.JPG?raw=true');
 
   /* half height */
   height: 50%; 
