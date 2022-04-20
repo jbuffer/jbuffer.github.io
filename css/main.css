@@ -3,6 +3,7 @@ body {
     font-family: 'Anek Tamil', sans-serif;
     margin: 60px auto;
     width: 70%;
+    color: #ECF0F1;
 }
 html { 
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/docs/assets/images/DSC01085.JPG) no-repeat center center fixed; 
@@ -28,6 +29,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    color: #ECF0F1;
 }
 h1 {
     font-family: 'Anek Tamil', sans-serif;
