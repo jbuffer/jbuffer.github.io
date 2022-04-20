@@ -3,6 +3,22 @@ body {
     font-family: 'Anek Tamil', sans-serif;
     margin: 60px auto;
     width: 70%;
+    height: 50%;
+}
+html {
+  height: 50%;
+}
+.bg { 
+  /* The image used */
+  background-image: url('/docs/assets/images/DSC01085.JPG');
+
+  /* half height */
+  height: 50%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 nav ul, footer ul {
     font-family:'Anek Tamil', 'Arial', 'Sans-Serif';
@@ -43,19 +59,4 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
-body, html {
-  height: 100%;
-}
-.bg { 
-  /* The image used */
-  background-image: "/docs/assets/images/DSC01085.JPG";
-
-  /* Full height */
-  height: 100%; 
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
