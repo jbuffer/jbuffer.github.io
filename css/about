@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Tamil:wght@200;600&display=swap');
+body {
+    font-family: 'Anek Tamil', sans-serif;
+    margin: 60px auto;
+    width: 70%;
+    color: #ECF0F1;
+}
+html { 
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/docs/assets/images/ORG_DSC01015.JPG) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+nav ul, footer ul {
+    font-family:'Anek Tamil', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    font-family: 'Anek Tamil', sans-serif;
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #ECF0F1;
+}
+a:hover {
+    text-decoration: underline;
+    color: #ECF0F1;
+}
+h1 {
+    font-family: 'Anek Tamil', sans-serif;
+    font-size: 3em;
+    color: #ECF0F1;
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #ECF0F1;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
