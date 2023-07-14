@@ -5,16 +5,16 @@ date: 2023-07-14
 ---
 
 # Shiny for Python
-I am sure many data scientists out there are super amped about the announcement made by Posit that [Shiny for Python](https://shiny.posit.co/py/) has moved from alpha to general availability (yep <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20" />, I am definitely one of them!).
+I am sure many data scientists out there are super-amped  that [Shiny for Python](https://shiny.posit.co/py/) has moved from alpha to general availability (yep <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20" /> I am definitely one of them!).
 
-Sure R has its plus points (I am looking at you ggplot2, my first data viz-package love 😉) but as a major Python fangirl, making Shiny applications was not as fun as it should have been. Enter stage left Shiny for Python for a potential full back-end to front-end Python experience.
+Sure R has its plus points - I am looking at you ggplot2, my first data viz-package love 😉 - but as a major Python fangirl, making Shiny applications was not as fun as it should have been. Enter stage left Shiny for Python for a potential full back-end to front-end Python experience.
 
 ## Taking Shiny for Python for a spin
 Fortunately, I didn't have to wait long for a reason to give it a spin. I had the perfect use case: a simple dashboard to visualise metrics stored in a database. 
 
 **Requirements:**
 
-&#x2611; the app had be hosted for free (very important)
+&#x2611; the app had to be hosted for free (very important)
 
 &#x2611; it had to be hosted somewhere that complies with organisational policies. 
 
