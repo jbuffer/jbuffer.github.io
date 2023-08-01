@@ -6,7 +6,7 @@ body {
     color: #ECF0F1;
 }
 html { 
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/docs/assets/images/DSC00431.JPG) no-repeat center center fixed; 
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(/docs/assets/images/DSC00431.JPG) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -25,7 +25,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #fb26ca;
+    color: #43a2ca;
 }
 a:hover {
     text-decoration: underline;
